@@ -290,3 +290,5 @@ const handleClientNav = () => {
     addClickEvents();
     handleCustomNavContent();
 };
+
+handleClientNav();
