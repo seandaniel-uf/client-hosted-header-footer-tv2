@@ -306,6 +306,4 @@ const handleClientNav = () => {
   handleCustomNavContent();
 };
 
-window.addEventListener("uberflip.load", () => {
-  handleClientNav();
-});
+handleClientNav();
