@@ -1,7 +1,8 @@
 # Example of an Uberflip client-hosted header and footer
 ### Below contains details on the structure of the endpoint, specifically where to place HTML, CSS, JavaScript and other assets in the necessary object keys.
 
-Endpoint Example: [https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js](https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js)
+#### Endpoint Example: [https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js](https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js)
+#### Live Example of working Header and Footer: https://clienthostedheaderfooter.ufcontent.com/ 
 
 The structure of the endpoint consists of one global object named to your choice (in my example I chose `companyCode`) followed by three seperate keys. The three keys in the `companyCode` object should be named accordingly as I have referenced below, and HTML, CSS, JavaScript placed in the necessary keys.
 
