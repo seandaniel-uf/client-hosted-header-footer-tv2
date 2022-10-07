@@ -2,7 +2,7 @@
 ### Below contains details on the structure of the endpoint, specifically where to place HTML, CSS, JavaScript and other assets in the necessary object keys.
 
 #### Endpoint Example: [https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js](https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js)
-#### Live Example of working Header and Footer: https://clienthostedheaderfooter.ufcontent.com/ 
+#### Live example of working Header and Footer: https://clienthostedheaderfooter.ufcontent.com/ 
 
 ***
 
