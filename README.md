@@ -15,7 +15,7 @@ The structure of the endpoint consists of one global object named to your choice
 `footer_html` -> The footer HTML, a script tag containing JavaScript for the header and footer placed just inside the end of the closing tag of your footer which will be placed at `</body>` bottom - [Example code when appended into the DOM](https://github.com/seandaniel-uf/client-hosted-header-footer-tv2/blob/master/footer.html)
 
 ***
-### Screenshots of the example endpoint with `head_section_html`, `header_html` and `footer_html` highlighted for transparency.
+### Screenshots of the example endpoint with `companyCode` and its keys `head_section_html`, `header_html` and `footer_html` highlighted for transparency.
 
 ![Screen Shot 2022-10-07 at 10 22 56 AM](https://user-images.githubusercontent.com/80727308/194577715-c0154967-c047-42bd-9e0a-ad3b37933509.png)
 
