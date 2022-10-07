@@ -1,4 +1,5 @@
 // Function to handle the client navigation bar
+// Hosted
 const handleClientNav = () => {
   function createElem(elemType, elemOptions, elemText) {
     const newElement = document.createElement(elemType);
