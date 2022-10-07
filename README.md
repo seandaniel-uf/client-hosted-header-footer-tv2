@@ -2,10 +2,12 @@
 
 Endpoint Example: [https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js](https://seandaniel-uf.github.io/client-hosted-header-footer-tv2/headerFooterEndPoint.js)
 
-The structure of the endpoint consists of:
+The structure of the endpoint consists of one global object named to your choice (in my example I chose `companyCode`) followed by three seperate keys:
 
-`head_section_html` -> Links to CSS, Font Files, Other necessary assets loaded through a CDN
+`head_section_html` -> Links to CSS, Font Files, Other necessary assets loaded through a CDN - [Example Code when appended into the DOM](https://github.com/seandaniel-uf/client-hosted-header-footer-tv2/blob/master/head_section_html.html)
 
-`header_html` -> The header's HTML which will be manipulated by CSS, JavaScript
+`header_html` -> The header's HTML
 
-`footer_html` -> The footer HTML which will be manipulated by CSS, potentially JavaScript (If your footer has JavaScript functionality). This also includes a script tag containing JavaScript for the header and footer, placed at the end of the `</footer>` tag which will be placed at `</body>` bottom. 
+`footer_html` -> The footer HTML, a script tag containing JavaScript for the header and footer placed just inside the end of the closing tag of your footer which will be placed at `</body>` bottom. 
+
+
